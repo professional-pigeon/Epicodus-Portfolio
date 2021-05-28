@@ -18,7 +18,7 @@
 * HTML
 * CSS
 * Markdown
-* [VS studio.](https://code.visualstudio.com/)
+* [VS studio](https://code.visualstudio.com/)
 * [Bootstrap](https://getbootstrap.com/) 
 
 ## Description

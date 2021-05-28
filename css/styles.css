@@ -36,6 +36,7 @@ body {
   border-radius: 50% 50% 0 0;
   display: inline-block;
   background-color: rgba(224, 175, 184, 0.993);
+  border: black 2px solid;
 }
 
 .bigbox1 {
@@ -50,6 +51,7 @@ body {
   margin-top: 10px;
   margin-bottom: 10px;
   overflow: auto;
+  background-color:rgba(224, 175, 184, 0.993);
 }
 
 .bigbox1 li {
@@ -64,19 +66,24 @@ body {
 
 .bigbox1 h3 {
   text-decoration: underline;
+  text-align: center;
 }
 
 .bigbox1 a:link, a:visited {
   color:rgb(54, 97, 153);
 }
 
+.margin-enhancement {
+  margin-bottom: 15px;
+}
 .bigbox2{
   padding-right: 15px;
   padding-left: 15px;
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 20px;
   border: solid black 2px;
   border-radius: 10% 10% 10% 10%;
+  background-color:rgba(224, 175, 184, 0.993);
 }
 
 .bigbox2 li {
@@ -86,6 +93,7 @@ body {
 
 .bigbox2 h3 {
   text-decoration: underline;
+  text-align: center;
 }
 
 .bigbox2 a:link, a:visited {
@@ -115,5 +123,5 @@ body {
 }
 
 .highlight3 {
-  text-decoration: underline #d0e038;
+  text-decoration: underline #e4b431;
 }
