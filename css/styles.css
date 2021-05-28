@@ -2,9 +2,8 @@ body {
   font-family: Georgia;
   text-align: justify;
   text-justify: inter-word;
-  background: #b5d1cc;
+  background: #c2d6d2;
 }
-
 
 .container {
   width: 90%;
@@ -30,8 +29,8 @@ body {
 .bigbox1 {
   padding-right: 15px;
   padding-left: 15px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   border: solid black 2px;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -45,8 +44,8 @@ body {
 .bigbox2{
   padding-right: 15px;
   padding-left: 15px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   border: solid black 2px;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -56,9 +55,14 @@ body {
   font-weight:bold;
 }
 
-.indent{
-
+.highlight1 {
+  text-decoration: underline #aa6728;
 }
-.indent p {
 
+.highlight2 {
+  text-decoration: underline #c04fba;
+}
+
+.highlight3 {
+  text-decoration: underline #d0e038;
 }
