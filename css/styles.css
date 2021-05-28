@@ -2,17 +2,17 @@ body {
   font-family: Georgia;
   text-align: justify;
   text-justify: inter-word;
-  background: #f2ad78;
+  background: #b5d1cc;
 }
 
 
 .container {
-    width: 90%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 1000px;
+  width: 90%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px;
 }
 
 .container h1, h2 {
@@ -20,7 +20,10 @@ body {
 }
 
 .bigbox1 {
-
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .bigbox1 li {
@@ -31,7 +34,10 @@ body {
   font-weight:italic;
 }
 .bigbox2{
-
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .indent{
