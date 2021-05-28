@@ -1,0 +1,33 @@
+body {
+  font-family: Georgia;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.container {
+    width: 90%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+}
+
+.bigbox1 {
+
+}
+
+.bigbox1 li {
+  font-weight:bold;
+}
+
+.bigbox2{
+
+}
+
+.indent{
+
+}
+.indept p {
+
+}
