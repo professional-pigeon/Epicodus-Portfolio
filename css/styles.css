@@ -2,7 +2,9 @@ body {
   font-family: Georgia;
   text-align: justify;
   text-justify: inter-word;
+  background: #f2ad78;
 }
+
 
 .container {
     width: 90%;
@@ -13,6 +15,10 @@ body {
     max-width: 1000px;
 }
 
+.container h1, h2 {
+  text-align: center;
+}
+
 .bigbox1 {
 
 }
@@ -21,6 +27,9 @@ body {
   font-weight:bold;
 }
 
+.bigbox1 ol li {
+  font-weight:italic;
+}
 .bigbox2{
 
 }
