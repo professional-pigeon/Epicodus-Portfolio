@@ -5,7 +5,7 @@ body {
   background: #c2d6d2;
 }
 
-.container {
+.container1 {
   width: 90%;
   padding-right: 15px;
   padding-left: 15px;
@@ -24,6 +24,11 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+  border: 2px solid black;
+}
+
+.tiny{
+  font-size: 75%;
 }
 
 .bigbox1 {
@@ -39,7 +44,6 @@ body {
 .bigbox1 li {
   font-weight:bold;
 }
-
 
 .bigbox2{
   padding-right: 15px;
