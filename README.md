@@ -5,7 +5,7 @@
 #### By Kyle Kay-Perez
 
 #### Shortcuts
-- [Technologies Used](id1)
+- Technologies Used
 - Description
 - Setup/Installation Requirements
 - Known Bugs
@@ -13,7 +13,7 @@
 - License
 - Contact Information
 
-## <a id=id1>Technologies Used</a>
+## Technologies Used
 
 * HTML
 * CSS
