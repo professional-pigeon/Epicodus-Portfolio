@@ -85,6 +85,20 @@ body {
   color:rgb(54, 97, 153);
 }
 
+.floatleft {
+  float: left;
+  width: auto;
+  height: 100px;
+  Margin-right: 15px;
+}
+
+.floatright {
+  float: right;
+  width: auto;
+  height: 100px;
+  margin-left: 15px;
+}
+
 .highlight1 {
   text-decoration: underline #aa6728;
 }
