@@ -15,8 +15,15 @@ body {
   max-width: 1050px;
 }
 
-.container h1, h2 {
+.title {
   text-align: center;
+}
+
+.title img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 .bigbox1 {
