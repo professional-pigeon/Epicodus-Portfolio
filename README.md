@@ -29,7 +29,6 @@ This is a place to show off the work we do in class. Currently it's hosting WIP'
 
 * Clone file from github into directory on your computer: https://github.com/professional-pigeon/Epicodus-Portfolio
 * Open with a text editor, I used [VS studio.](https://code.visualstudio.com/)
-* For bootstrap and
 * As the technology expands this list will expand with it.
 
 ## Known Bugs
