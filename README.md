@@ -8,12 +8,11 @@
 - [Technologies Used](#technologies-used)
 - [Description](#description)
 - [Setup/Installation Requirements](#setup/installation-requirements)
-- [GithubPages] (#githubpages)
+- Github pages
 - [Known Bugs](#known-bugs)
 - [Future Plans](#future-plans)
 - [License](#license)
 - [Contact Information](#contact-information)
-- [GithubPages] (#github-pages)
 
 ## Technologies Used
 
