@@ -8,10 +8,12 @@
 - [Technologies Used](#technologies-used)
 - [Description](#description)
 - [Setup/Installation Requirements](#setup/installation-requirements)
+- [GithubPages] (#githubpages)
 - [Known Bugs](#known-bugs)
 - [Future Plans](#future-plans)
 - [License](#license)
 - [Contact Information](#contact-information)
+- [GithubPages] (#github-pages)
 
 ## Technologies Used
 
@@ -25,11 +27,17 @@
 
 This is a place to show off the work we do in class. Currently it's hosting WIP's but eventually it will be hosting well polished projects.
 
+You can view the pae [here] (https://professional-pigeon.github.io/Epicodus-Portfolio/) on github pages.
+
 ## Setup/Installation Requirements
 
 * Clone file from github into directory on your computer: [Github link](https://github.com/professional-pigeon/Epicodus-Portfolio)
 * Open with a text editor, I used [VS studio.](https://code.visualstudio.com/)
 * As the technology expands this list will expand with it.
+
+## Github Pages
+
+Click [here] (https://professional-pigeon.github.io/Epicodus-Portfolio/) to navigate to the website on github pages.
 
 ## Known Bugs
 
