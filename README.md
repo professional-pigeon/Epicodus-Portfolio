@@ -8,7 +8,7 @@
 - [Technologies Used](#technologies-used)
 - [Description](#description)
 - [Setup/Installation Requirements](#setup/installation-requirements)
-- [Github pages](Github-Pages)
+- [Github pages](#Github-Pages)
 - [Known Bugs](#known-bugs)
 - [Future Plans](#future-plans)
 - [License](#license)
@@ -26,7 +26,7 @@
 
 This is a place to show off the work we do in class. Currently it's hosting WIP's but eventually it will be hosting well polished projects.
 
-You can view the pae [here](https://professional-pigeon.github.io/Epicodus-Portfolio/) on github pages.
+You can view the page [here](https://professional-pigeon.github.io/Epicodus-Portfolio/) on github pages.
 
 ## Setup/Installation Requirements
 
